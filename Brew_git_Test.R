@@ -2,7 +2,7 @@
 library(tidyverse)
 
 # Generate random sample data
-set.seed(125)  # for reproducibility
+set.seed(125)  # for reproducibility changed om 123 to 125
 
 # Lorri changed the seed from 123 to 125
 # Justification is because of new publications on data science journal 
